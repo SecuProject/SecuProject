@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SecuProject&show_icons=true&theme=gotham" alt="SecuProject" />
-
 <!--
 **SecuProject/SecuProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My GitHub Stats
+[![SecuProject GitHub stats](https://github-readme-stats.vercel.app/api?username=SecuProject&theme=dark&line_height=40&show_icons=true)](https://github.com/SecuProject/github-readme-stats)
+[![SecuProject GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SecuProject&&theme=dark&line_height=40)](https://github.com/SecuProject/github-readme-stats)
+
+## Connect with me:
+
+[![Twitter: Th3Play3r47](https://img.shields.io/badge/@Th3Play3r47-twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Th3Play3r47)
