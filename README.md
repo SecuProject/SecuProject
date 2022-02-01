@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/player47.png" alt="TryHackMe">
+
 [![Twitter: Th3Play3r47](https://img.shields.io/badge/@Th3Play3r47-twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Th3Play3r47)
